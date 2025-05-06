@@ -1,12 +1,12 @@
 basic:
-    name: 'Dr. Daren Green PhD'
+    name: 'Ricky Bednar'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://kling.org/itaque-nobis-qui-voluptatem-rerum-inventore-ut-et.html'
-        - 'https://block.com/'
+        - 'https://www.gislason.info/'
+        - 'https://www.marks.biz/'
     monitoring:
         days: {  }
         type: ''
